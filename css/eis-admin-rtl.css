@@ -1,0 +1,16 @@
+/* */
+.slideshow-settings input[type="checkbox"] {margin: 0 5px;}
+.slideshow-settings input.color {direction: ltr; text-align: left;}
+.wp-eis-add-images .drag-drop-info {font-size: 14px !important;}
+
+/*#update-image input[type="text"] {direction: rtl !important; text-align: right!important;}*/
+.code-align {
+	direction: ltr;
+	text-align: left;
+	display: block;
+}
+
+.error-happend {
+	background: url(../images/respond-error.png) no-repeat right center;
+}
+#eis-loading-title, #eis-loading-image { direction: rtl; text-align: right;}

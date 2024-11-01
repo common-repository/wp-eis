@@ -1,0 +1,791 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP EIS\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-02-06 12:26+0330\n"
+"PO-Revision-Date: 2013-02-06 12:26+0330\n"
+"Last-Translator: mehrdad <mehral.com@hotmail.com>\n"
+"Language-Team: mehral <mehral.com@hotmail.com>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _e;__;esc_html_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: inc/wp-eis-options.php:24
+msgid "WP EIS"
+msgstr ""
+
+#: inc/wp-eis-options.php:25
+msgid "Settings"
+msgstr ""
+
+#: inc/wp-eis-options.php:26
+#: inc/wp-eis-options.php:772
+msgid "Add Slideshow"
+msgstr ""
+
+#: inc/wp-eis-options.php:27
+#: inc/wp-eis-options.php:917
+msgid "Add Images"
+msgstr ""
+
+#: inc/wp-eis-options.php:28
+msgid "ALL Slides"
+msgstr ""
+
+#: inc/wp-eis-options.php:29
+msgid "ALL Images"
+msgstr ""
+
+#: inc/wp-eis-options.php:30
+msgid "About Plugin"
+msgstr ""
+
+#: inc/wp-eis-options.php:43
+#: inc/wp-eis-options.php:671
+#: inc/wp-eis-options.php:676
+#: inc/wp-eis-options.php:853
+#: inc/wp-eis-options.php:858
+#: inc/wp-eis-options.php:1067
+#: inc/wp-eis-options.php:1072
+#: inc/wp-eis-options.php:1477
+#: inc/wp-eis-options.php:1482
+#: inc/wp-eis-options.php:1921
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
+#: inc/wp-eis-options.php:49
+msgid "Slideshow Settings"
+msgstr ""
+
+#: inc/wp-eis-options.php:52
+msgid "Settings saved."
+msgstr ""
+
+#: inc/wp-eis-options.php:66
+msgid "Save Settings"
+msgstr ""
+
+#: inc/wp-eis-options.php:77
+msgid "User Capability"
+msgstr ""
+
+#: inc/wp-eis-options.php:78
+msgid "Add Slideshow: "
+msgstr ""
+
+#: inc/wp-eis-options.php:79
+msgid "Edit Slideshow: "
+msgstr ""
+
+#: inc/wp-eis-options.php:80
+msgid "Delete Slideshow: "
+msgstr ""
+
+#: inc/wp-eis-options.php:82
+msgid "Header Text Settings"
+msgstr ""
+
+#: inc/wp-eis-options.php:83
+msgid "h2 Font Name: "
+msgstr ""
+
+#: inc/wp-eis-options.php:84
+msgid "h2 Font Size: "
+msgstr ""
+
+#: inc/wp-eis-options.php:85
+msgid "h2 Font Color: "
+msgstr ""
+
+#: inc/wp-eis-options.php:86
+msgid "h3 Font Name: "
+msgstr ""
+
+#: inc/wp-eis-options.php:87
+msgid "h3 Font Size: "
+msgstr ""
+
+#: inc/wp-eis-options.php:88
+msgid "h3 Font Color: "
+msgstr ""
+
+#: inc/wp-eis-options.php:90
+msgid "Navigation Color Settings"
+msgstr ""
+
+#: inc/wp-eis-options.php:91
+msgid "Navigation color: "
+msgstr ""
+
+#: inc/wp-eis-options.php:92
+msgid "Navigation hover color: "
+msgstr ""
+
+#: inc/wp-eis-options.php:93
+msgid "Current navigation color: "
+msgstr ""
+
+#: inc/wp-eis-options.php:95
+msgid "Loading Settings"
+msgstr ""
+
+#: inc/wp-eis-options.php:96
+msgid "Loading Title: "
+msgstr ""
+
+#: inc/wp-eis-options.php:97
+msgid "Loading Image: "
+msgstr ""
+
+#: inc/wp-eis-options.php:164
+#: inc/wp-eis-options.php:196
+msgid "Your font name for this title"
+msgstr ""
+
+#: inc/wp-eis-options.php:173
+#: inc/wp-eis-options.php:205
+msgid "Font size in pixel"
+msgstr ""
+
+#: inc/wp-eis-options.php:184
+#: inc/wp-eis-options.php:216
+#: inc/wp-eis-options.php:230
+#: inc/wp-eis-options.php:244
+#: inc/wp-eis-options.php:258
+msgid "Select Color"
+msgstr ""
+
+#: inc/wp-eis-options.php:185
+#: inc/wp-eis-options.php:217
+#: inc/wp-eis-options.php:231
+#: inc/wp-eis-options.php:245
+#: inc/wp-eis-options.php:259
+msgid "Default Color"
+msgstr ""
+
+#: inc/wp-eis-options.php:270
+#: inc/wp-eis-options.php:307
+msgid "Your loading title like Loading..."
+msgstr ""
+
+#: inc/wp-eis-options.php:278
+msgid "Moving Block"
+msgstr ""
+
+#: inc/wp-eis-options.php:279
+msgid "Flickr"
+msgstr ""
+
+#: inc/wp-eis-options.php:280
+msgid "Rotating heart"
+msgstr ""
+
+#: inc/wp-eis-options.php:281
+msgid "Clock with hands"
+msgstr ""
+
+#: inc/wp-eis-options.php:282
+msgid "Window 8 loader"
+msgstr ""
+
+#: inc/wp-eis-options.php:283
+msgid "Loading fading lines"
+msgstr ""
+
+#: inc/wp-eis-options.php:284
+msgid "Twirl"
+msgstr ""
+
+#: inc/wp-eis-options.php:285
+msgid "Glow in ring"
+msgstr ""
+
+#: inc/wp-eis-options.php:286
+msgid "Solid snake"
+msgstr ""
+
+#: inc/wp-eis-options.php:287
+msgid "Heart arrow"
+msgstr ""
+
+#: inc/wp-eis-options.php:288
+msgid "Ubuntu"
+msgstr ""
+
+#: inc/wp-eis-options.php:289
+msgid "Segments"
+msgstr ""
+
+#: inc/wp-eis-options.php:290
+msgid "Apple"
+msgstr ""
+
+#: inc/wp-eis-options.php:291
+msgid "Android"
+msgstr ""
+
+#: inc/wp-eis-options.php:292
+msgid "Picasa"
+msgstr ""
+
+#: inc/wp-eis-options.php:296
+msgid "Select Your Image"
+msgstr ""
+
+#: inc/wp-eis-options.php:377
+#: inc/wp-eis-options.php:447
+#: inc/wp-eis-options.php:585
+msgid "Please Enter the Name of Slideshows"
+msgstr ""
+
+#: inc/wp-eis-options.php:397
+msgid "This slidehsow name has been created before"
+msgstr ""
+
+#: inc/wp-eis-options.php:417
+msgid "Slideshow has been created"
+msgstr ""
+
+#: inc/wp-eis-options.php:422
+#: inc/wp-eis-options.php:487
+#: inc/wp-eis-options.php:564
+#: inc/wp-eis-options.php:616
+msgid "Error has been occured"
+msgstr ""
+
+#: inc/wp-eis-options.php:485
+msgid "Slideshow has been Updated"
+msgstr ""
+
+#: inc/wp-eis-options.php:504
+#: inc/wp-eis-options.php:635
+msgid "has been deleted successfully"
+msgstr ""
+
+#: inc/wp-eis-options.php:506
+#: inc/wp-eis-options.php:637
+msgid "Error has been occured for deleting"
+msgstr ""
+
+#: inc/wp-eis-options.php:536
+#: inc/wp-eis-options.php:594
+msgid "Please Enter the url of Image"
+msgstr ""
+
+#: inc/wp-eis-options.php:562
+msgid "Images has been added"
+msgstr ""
+
+#: inc/wp-eis-options.php:614
+msgid "Image has been Updated"
+msgstr ""
+
+#: inc/wp-eis-options.php:681
+msgid "Add New Slideshow"
+msgstr ""
+
+#: inc/wp-eis-options.php:686
+msgid "Name of Slideshow :"
+msgstr ""
+
+#: inc/wp-eis-options.php:689
+msgid "Enter A valid name without space, dash or uppercase .In other words something like this eis_slider"
+msgstr ""
+
+#: inc/wp-eis-options.php:693
+msgid "Animation Type:"
+msgstr ""
+
+#: inc/wp-eis-options.php:696
+#: inc/wp-eis-options.php:1176
+msgid "Sides"
+msgstr ""
+
+#: inc/wp-eis-options.php:697
+#: inc/wp-eis-options.php:1176
+msgid "Center"
+msgstr ""
+
+#: inc/wp-eis-options.php:700
+msgid "Animation types: <br />\"sides\" : new slides will slide in from left / right <br /> \"center\": new slides will appear in the center"
+msgstr ""
+
+#: inc/wp-eis-options.php:704
+#: inc/wp-eis-options.php:1189
+msgid "Autoplay :"
+msgstr ""
+
+#: inc/wp-eis-options.php:707
+#: inc/wp-eis-options.php:1192
+msgid "False"
+msgstr ""
+
+#: inc/wp-eis-options.php:708
+#: inc/wp-eis-options.php:1192
+msgid "True"
+msgstr ""
+
+#: inc/wp-eis-options.php:710
+msgid "If true the slider will automatically slide, and it will only stop if the user clicks on a thumb"
+msgstr ""
+
+#: inc/wp-eis-options.php:714
+#: inc/wp-eis-options.php:1205
+msgid "Slideshow Interval :"
+msgstr ""
+
+#: inc/wp-eis-options.php:717
+msgid "Interval for the slideshow are given in milliseconds, higher values indicate slower animations, The default value is 3000"
+msgstr ""
+
+#: inc/wp-eis-options.php:721
+#: inc/wp-eis-options.php:1209
+msgid "Slide Speed :"
+msgstr ""
+
+#: inc/wp-eis-options.php:724
+msgid "Speed for the sliding animation are given in milliseconds, higher values indicate slower animations, The default value is 800"
+msgstr ""
+
+#: inc/wp-eis-options.php:728
+#: inc/wp-eis-options.php:1213
+msgid "Slide Easing Option :"
+msgstr ""
+
+#: inc/wp-eis-options.php:731
+msgid "Easing for the sliding animation"
+msgstr ""
+
+#: inc/wp-eis-options.php:732
+#: inc/wp-eis-options.php:754
+msgid "An easing function specifies the speed at which the animation progresses at different points within the animation. More easing functions are available in"
+msgstr ""
+
+#: inc/wp-eis-options.php:732
+#: inc/wp-eis-options.php:754
+msgid "Easing functions"
+msgstr ""
+
+#: inc/wp-eis-options.php:736
+#: inc/wp-eis-options.php:1217
+msgid "Titles Factor :"
+msgstr ""
+
+#: inc/wp-eis-options.php:739
+msgid "Percentage of speed for the titles animation. Speed will be ( speed * titlesFactor ) and The default titlesFactor is 0.60"
+msgstr ""
+
+#: inc/wp-eis-options.php:743
+#: inc/wp-eis-options.php:1221
+msgid "Titles Speed :"
+msgstr ""
+
+#: inc/wp-eis-options.php:746
+msgid "Titles animation speed are given in milliseconds, higher values indicate slower animations, The default value is 800"
+msgstr ""
+
+#: inc/wp-eis-options.php:750
+msgid "Titles Easing Option :"
+msgstr ""
+
+#: inc/wp-eis-options.php:753
+msgid "Titles animation easing"
+msgstr ""
+
+#: inc/wp-eis-options.php:758
+#: inc/wp-eis-options.php:1229
+msgid "Thumbnail Max Width :"
+msgstr ""
+
+#: inc/wp-eis-options.php:761
+msgid "Maximum width for the thumbs in pixels"
+msgstr ""
+
+#: inc/wp-eis-options.php:762
+msgid "<strong>Tip</strong> : if the slideshow size that will input in the position that you chose is 960 px (for instance) and you have 6 pictures<br /> The thumbanil size should be (960 / 6 = 160 ) 160 px."
+msgstr ""
+
+#: inc/wp-eis-options.php:766
+msgid "For more information about this inputs :"
+msgstr ""
+
+#: inc/wp-eis-options.php:767
+msgid "Tympanus : Elastic Image Slideshow with Thumbnail Preview"
+msgstr ""
+
+#: inc/wp-eis-options.php:773
+msgid "Advanced Mode"
+msgstr ""
+
+#: inc/wp-eis-options.php:787
+msgid "Basic Mode"
+msgstr ""
+
+#: inc/wp-eis-options.php:807
+msgid "Please enter a valid slide name"
+msgstr ""
+
+#: inc/wp-eis-options.php:820
+#: inc/wp-eis-options.php:1013
+#: inc/wp-eis-options.php:1293
+#: inc/wp-eis-options.php:1336
+#: inc/wp-eis-options.php:1405
+#: inc/wp-eis-options.php:1760
+#: inc/wp-eis-options.php:1804
+#: inc/wp-eis-options.php:1876
+msgid "Sending your data"
+msgstr ""
+
+#: inc/wp-eis-options.php:829
+#: inc/wp-eis-options.php:1023
+#: inc/wp-eis-options.php:1307
+#: inc/wp-eis-options.php:1350
+#: inc/wp-eis-options.php:1419
+#: inc/wp-eis-options.php:1774
+#: inc/wp-eis-options.php:1818
+#: inc/wp-eis-options.php:1890
+msgid "Try again"
+msgstr ""
+
+#: inc/wp-eis-options.php:865
+msgid "Upload Images into Slide"
+msgstr ""
+
+#: inc/wp-eis-options.php:901
+msgid "Select your slide name :"
+msgstr ""
+
+#: inc/wp-eis-options.php:908
+msgid "Select your slide name"
+msgstr ""
+
+#: inc/wp-eis-options.php:916
+msgid "Add Titles"
+msgstr ""
+
+#: inc/wp-eis-options.php:924
+msgid "Drop your images here"
+msgstr ""
+
+#: inc/wp-eis-options.php:929
+msgid "Title in h2 Tag ( optional ) :"
+msgstr ""
+
+#: inc/wp-eis-options.php:929
+#: inc/wp-eis-options.php:930
+#: inc/wp-eis-options.php:1622
+#: inc/wp-eis-options.php:1634
+msgid "You can use these tags <a href=\"\"></a><span></span><em></em><i></i><strong></strong>"
+msgstr ""
+
+#: inc/wp-eis-options.php:930
+msgid "Title in h3 Tag ( optional ) :"
+msgstr ""
+
+#: inc/wp-eis-options.php:931
+msgid "Order ( required ) :"
+msgstr ""
+
+#: inc/wp-eis-options.php:972
+#: inc/wp-eis-options.php:980
+#: inc/wp-eis-options.php:1724
+#: inc/wp-eis-options.php:1731
+msgid "Please enter your title"
+msgstr ""
+
+#: inc/wp-eis-options.php:990
+#: inc/wp-eis-options.php:1746
+msgid "Please enter a numeric value"
+msgstr ""
+
+#: inc/wp-eis-options.php:1019
+#: inc/wp-eis-options.php:1299
+#: inc/wp-eis-options.php:1342
+#: inc/wp-eis-options.php:1411
+#: inc/wp-eis-options.php:1766
+#: inc/wp-eis-options.php:1810
+#: inc/wp-eis-options.php:1882
+msgid "Refresh"
+msgstr ""
+
+#: inc/wp-eis-options.php:1050
+#: inc/wp-eis-options.php:1460
+msgid "You do not have sufficient permissions to edit this item."
+msgstr ""
+
+#: inc/wp-eis-options.php:1060
+#: inc/wp-eis-options.php:1470
+msgid "You do not have sufficient permissions to delete this item."
+msgstr ""
+
+#: inc/wp-eis-options.php:1078
+msgid "Slideshow Lists"
+msgstr ""
+
+#: inc/wp-eis-options.php:1086
+#: inc/wp-eis-options.php:1129
+#: inc/wp-eis-options.php:1498
+#: inc/wp-eis-options.php:1543
+msgid "ID"
+msgstr ""
+
+#: inc/wp-eis-options.php:1087
+#: inc/wp-eis-options.php:1130
+#: inc/wp-eis-options.php:1499
+#: inc/wp-eis-options.php:1544
+msgid "Slideshow Name"
+msgstr ""
+
+#: inc/wp-eis-options.php:1088
+#: inc/wp-eis-options.php:1131
+msgid "Shortcode"
+msgstr ""
+
+#: inc/wp-eis-options.php:1089
+#: inc/wp-eis-options.php:1132
+msgid "Theme Function"
+msgstr ""
+
+#: inc/wp-eis-options.php:1108
+#: inc/wp-eis-options.php:1109
+#: inc/wp-eis-options.php:1525
+#: inc/wp-eis-options.php:1526
+msgid "Edit"
+msgstr ""
+
+#: inc/wp-eis-options.php:1109
+#: inc/wp-eis-options.php:1526
+msgid "Edit this image"
+msgstr ""
+
+#: inc/wp-eis-options.php:1109
+msgid "Delete this Slideshow"
+msgstr ""
+
+#: inc/wp-eis-options.php:1109
+#: inc/wp-eis-options.php:1526
+msgid "Delete"
+msgstr ""
+
+#: inc/wp-eis-options.php:1113
+msgid "Slideshow Title"
+msgstr ""
+
+#: inc/wp-eis-options.php:1120
+#: inc/wp-eis-options.php:1534
+msgid "Not Found!"
+msgstr ""
+
+#: inc/wp-eis-options.php:1139
+#: inc/wp-eis-options.php:1553
+msgid "Select remove option"
+msgstr ""
+
+#: inc/wp-eis-options.php:1140
+#: inc/wp-eis-options.php:1554
+msgid "Remove"
+msgstr ""
+
+#: inc/wp-eis-options.php:1142
+#: inc/wp-eis-options.php:1556
+msgid "Apply"
+msgstr ""
+
+#: inc/wp-eis-options.php:1161
+msgid "Edit Slideshow"
+msgstr ""
+
+#: inc/wp-eis-options.php:1166
+msgid "Name Of Slideshow :"
+msgstr ""
+
+#: inc/wp-eis-options.php:1173
+msgid "Animation Type :"
+msgstr ""
+
+#: inc/wp-eis-options.php:1225
+msgid "Titles Easing  Option :"
+msgstr ""
+
+#: inc/wp-eis-options.php:1235
+msgid "Update Slideshow"
+msgstr ""
+
+#: inc/wp-eis-options.php:1236
+#: inc/wp-eis-options.php:1662
+msgid "Cancel"
+msgstr ""
+
+#: inc/wp-eis-options.php:1281
+msgid "Please enter a valid Slide name"
+msgstr ""
+
+#: inc/wp-eis-options.php:1299
+#: inc/wp-eis-options.php:1342
+#: inc/wp-eis-options.php:1411
+#: inc/wp-eis-options.php:1766
+#: inc/wp-eis-options.php:1810
+#: inc/wp-eis-options.php:1882
+msgid "Refresh now"
+msgstr ""
+
+#: inc/wp-eis-options.php:1300
+#: inc/wp-eis-options.php:1767
+msgid "Or, Will be Refreshed after 5 secs"
+msgstr ""
+
+#: inc/wp-eis-options.php:1328
+#: inc/wp-eis-options.php:1395
+#: inc/wp-eis-options.php:1795
+#: inc/wp-eis-options.php:1862
+msgid "Are you sure?"
+msgstr ""
+
+#: inc/wp-eis-options.php:1343
+#: inc/wp-eis-options.php:1412
+#: inc/wp-eis-options.php:1811
+#: inc/wp-eis-options.php:1883
+msgid "Or, Will be Refreshed after 10 secs"
+msgstr ""
+
+#: inc/wp-eis-options.php:1426
+#: inc/wp-eis-options.php:1897
+msgid "Please delete this ID by deleting it from the delete link under the Slide Name field"
+msgstr ""
+
+#: inc/wp-eis-options.php:1428
+#: inc/wp-eis-options.php:1899
+msgid "Please select the IDs you want delete theme"
+msgstr ""
+
+#: inc/wp-eis-options.php:1490
+msgid "All Images List"
+msgstr ""
+
+#: inc/wp-eis-options.php:1500
+#: inc/wp-eis-options.php:1545
+msgid "Order"
+msgstr ""
+
+#: inc/wp-eis-options.php:1501
+#: inc/wp-eis-options.php:1546
+msgid "Thumbnail"
+msgstr ""
+
+#: inc/wp-eis-options.php:1526
+msgid "Delete this image"
+msgstr ""
+
+#: inc/wp-eis-options.php:1560
+msgid "items"
+msgstr ""
+
+#: inc/wp-eis-options.php:1562
+msgid "Go to the first page"
+msgstr ""
+
+#: inc/wp-eis-options.php:1563
+msgid "Go to the previous page"
+msgstr ""
+
+#: inc/wp-eis-options.php:1564
+msgid "of"
+msgstr ""
+
+#: inc/wp-eis-options.php:1565
+msgid "Go to the next page"
+msgstr ""
+
+#: inc/wp-eis-options.php:1566
+msgid "Go to the last page"
+msgstr ""
+
+#: inc/wp-eis-options.php:1587
+msgid "Edit image"
+msgstr ""
+
+#: inc/wp-eis-options.php:1592
+msgid "Slideshow Name :"
+msgstr ""
+
+#: inc/wp-eis-options.php:1613
+msgid "h2 Tag Title :"
+msgstr ""
+
+#: inc/wp-eis-options.php:1626
+msgid "h3 Tag Title :"
+msgstr ""
+
+#: inc/wp-eis-options.php:1638
+msgid "Image :"
+msgstr ""
+
+#: inc/wp-eis-options.php:1642
+msgid "Change"
+msgstr ""
+
+#: inc/wp-eis-options.php:1643
+msgid "Remove Image"
+msgstr ""
+
+#: inc/wp-eis-options.php:1652
+msgid "Order :"
+msgstr ""
+
+#: inc/wp-eis-options.php:1661
+msgid "Update Image"
+msgstr ""
+
+#: inc/wp-eis-options.php:1738
+msgid "Please enter an image"
+msgstr ""
+
+#: inc/wp-eis-options.php:1926
+msgid "About EIS Plugin"
+msgstr ""
+
+#: inc/wp-eis-options.php:1936
+msgid "Hi, This plugin is a responsive slideshow plugin that generated from "
+msgstr ""
+
+#: inc/wp-eis-options.php:1936
+msgid "tympanus.net"
+msgstr ""
+
+#: inc/wp-eis-options.php:1937
+msgid "This plugin is available in two languages,  Persian & English "
+msgstr ""
+
+#: inc/wp-eis-options.php:1938
+msgid "If you want to translate this plugin in your language please send your translating to "
+msgstr ""
+
+#: inc/wp-eis-options.php:1938
+msgid "Plugin Support Page"
+msgstr ""
+
+#: inc/wp-eis-options.php:1939
+msgid "If you have any questions about this plugin, you can ask your questions here"
+msgstr ""
+
+#: inc/wp-eis-options.php:1947
+msgid "WP EIS Page"
+msgstr ""
+
+#: inc/wp-eis-options.php:1949
+msgid "At the end if you liked this plugin you can support me by becoming one of my"
+msgstr ""
+
+#: inc/wp-eis-options.php:1949
+msgid "facebook fans"
+msgstr ""
+
+#: inc/wp-eis-options.php:1950
+msgid "Good to see you again"
+msgstr ""
+
